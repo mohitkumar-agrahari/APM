@@ -1,0 +1,13 @@
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\controller\FeatureAvailabilityController.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\FeatureAvailabilityMainClass.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\inf\IFeatureAvailabilityService.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\dto\CustomerFeatureMappingDTO.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\entity\APMFeaturesEntity.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\dto\NavigationDTO.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\service\FeatureAvailabilityServiceImpl.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\entity\UserGroupEntity.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\repo\IAPMFeaturesRepo.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\repo\ICustomerFeatureMappingRepo.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\entity\CustomerFeatureMappingEntity.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\cors\CustomCorsFilter.java
+C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability\src\main\java\com\apm\fas\dto\SSTFeaturesDTO.java

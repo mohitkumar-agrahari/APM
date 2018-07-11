@@ -1,0 +1,165 @@
+{
+"analytic_name":"bearing-wipe-new-1.1",
+    "tag_aliases": {
+      "TNH": "TNH",
+      "OUTPUT": "OUTPUT",
+      "TNH_FLAG": "TNH_FLAG",
+      "SPEED": "SPEED",
+      "SPEED_FLAG": "SPEED_FLAG"
+    },
+    "input_tags": [
+      { 
+        "name": "TNH",
+        "description": "TNH generated"
+      },
+      {
+        "name": "TNH_FLAG",
+        "description": "TNH_FLAG"
+      },
+      {
+        "name": "SPEED_FLAG",
+        "description": "SPEED_FLAG"
+      },
+      {
+        "name": "SPEED",
+        "description": "Turbine speed"
+      }
+    ],
+    "output_tags": [
+      {
+        "name": "OUTPUT",
+        "description": "Output Value"
+      }
+    ],
+    "parameters": {
+      "frame_size_key":"7F",
+      "analytic_parameters": [
+        {
+          "name": "K_ROL_WIN_MAVG_STD",
+          "description": "",
+          "value": 10
+        },
+        {
+          "name": "K_LATCH_RESET",
+          "description": "",
+          "value": 5
+        }
+      ],
+      "frame_parameters": {
+        "all": [
+          {
+            "unit": "percent",
+            "name": "SPEED_MIN",
+            "description": "",
+            "value": -1
+          },
+          {
+            "unit": "percent",
+            "name": "SPEED_MAX",
+            "description": "",
+            "value": 110
+          }
+        ],
+        "9F": [
+          {
+            "unit": "MW",
+            "name": "POWER_MIN",
+            "description": "",
+            "value": -1
+          },
+          {
+            "unit": "MW",
+            "name": "POWER_MAX",
+            "description": "",
+            "value": 500
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_1_MIN",
+            "description": "",
+            "value": -1
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_1_MAX",
+            "description": "",
+            "value": 1500
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_2_MIN",
+            "description": "",
+            "value": -1
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_2_MAX",
+            "description": "",
+            "value": 1500
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_3_MIN",
+            "description": "",
+            "value": -1
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_3_MAX",
+            "description": "",
+            "value": 1500
+          }
+        ],
+        "7F": [
+          {
+            "unit": "MW",
+            "name": "POWER_MIN",
+            "description": "",
+            "value": -1
+          },
+          {
+            "unit": "MW",
+            "name": "POWER_MAX",
+            "description": "",
+            "value": 500
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_1_MIN",
+            "description": "",
+            "value": -1
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_1_MAX",
+            "description": "",
+            "value": 1500
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_2_MIN",
+            "description": "",
+            "value": -1
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_2_MAX",
+            "description": "",
+            "value": 1500
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_3_MIN",
+            "description": "",
+            "value": -1
+          },
+          {
+            "unit": "F",
+            "name": "TEMP_3_MAX",
+            "description": "",
+            "value": 1500
+          }
+        ]
+      }
+    }
+  }

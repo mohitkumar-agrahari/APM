@@ -1,0 +1,50 @@
+spring.profiles.active=local
+spring.jpa.database=POSTGRESQL
+spring.datasource.platform=postgres
+spring.jpa.show-sql=false
+
+spring.jpa.hibernate.ddl-auto=update
+sst.historian.dll.path=C:\\Users\\magrahar\\Downloads\\APM-Git-Repo\\APM-Workspace\\data-rw\\src\\main\\resources
+#Pairing machine credential 
+#DO NOT OVERWRITE
+spring.datasource.url=jdbc:postgresql://localhost:5432/postgres
+spring.datasource.username=postgres
+spring.datasource.password=root
+server.compression.enabled=true
+spring.jpa.hibernate.use-new-id-generator-mappings=false
+
+#Multipart File Size
+multipart.max-file-size=100MB
+multipart.max-request-size=100MB
+
+spring.datasource.driver=org.postgresql.Driver
+sst.enable.debugging=false
+hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+logging.level.org.org.springframework=ERROR
+logging.level.com.ge.sst.service.com.ge.sst.service.AnalyticInsertionImpl=DEBUG
+
+spring.jpa.properties.hibernate.enable_lazy_load_no_trans=true
+
+#Historian Properties
+sst.historian.server.username=QA_CCE
+sst.historian.server.password=g0r1ll@S
+sst.historian.server.address=3.239.7.236
+
+sst.python.runner.add_analytic=http://localhost:4500/api/add_analytic
+sst.python.runner.async_run=http://localhost:4500/api/execute/egg/async
+
+server.port=8084
+
+#configurable variables
+inputDataFile=data_2016-09-01 00-00-00_train.csv
+analyticId=14
+startTimeSubValue=-450
+endTimeSubValue=-449
+
+##### AM Service Configurable details
+amServiceURL=http://localhost:8086/api/v1
+amServiceContentType=application/json
+
+#Logging
+logging.pattern.console= %clr(%d{dd-MMM-yy HH:mm:ss}){magenta}: %clr(%5p) %clr([Method: %M][Line: %L]){blue} %c- %m%n
+logging.file=./logs/data-read-write.log

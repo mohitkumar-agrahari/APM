@@ -1,0 +1,13 @@
+com\apm\fas\repo\ICustomerFeatureMappingRepo.class
+com\apm\fas\entity\CustomerFeatureMappingEntity.class
+com\apm\fas\entity\UserGroupEntity.class
+com\apm\fas\cors\CustomCorsFilter.class
+com\apm\fas\dto\NavigationDTO.class
+com\apm\fas\service\FeatureAvailabilityServiceImpl.class
+com\apm\fas\FeatureAvailabilityMainClass.class
+com\apm\fas\repo\IAPMFeaturesRepo.class
+com\apm\fas\inf\IFeatureAvailabilityService.class
+com\apm\fas\dto\SSTFeaturesDTO.class
+com\apm\fas\controller\FeatureAvailabilityController.class
+com\apm\fas\dto\CustomerFeatureMappingDTO.class
+com\apm\fas\entity\APMFeaturesEntity.class

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="webapp-service"/>
+<aop-project name="authentication-service"/>
+<aop-project name="data-rw"/>
+<aop-project name="apm-am-service"/>
+<aop-project name="historian-read"/>
+<aop-project name="features-availability"/>
+</aop-reference-model>

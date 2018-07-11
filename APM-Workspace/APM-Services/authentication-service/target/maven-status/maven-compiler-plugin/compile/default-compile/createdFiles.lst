@@ -1,0 +1,12 @@
+com\ge\sst\auth\entity\UserDetailsEntity.class
+com\ge\sst\auth\controller\AuthenticationServiceController.class
+com\ge\sst\auth\cors\CustomCorsFilter.class
+com\ge\sst\auth\entity\UserGroupEntity.class
+com\ge\sst\auth\repository\IUserGroupRepo.class
+com\ge\sst\auth\AuthenticationServiceMainClass.class
+com\ge\sst\auth\dto\UserDetailsDTO.class
+com\ge\sst\auth\dto\ResponseDTO.class
+com\ge\sst\auth\dto\LoginCredentialsDTO.class
+com\ge\sst\auth\inf\IAuthenticationService.class
+com\ge\sst\auth\service\AuthenticationServiceImpl.class
+com\ge\sst\auth\repository\IUserDetailsRepo.class

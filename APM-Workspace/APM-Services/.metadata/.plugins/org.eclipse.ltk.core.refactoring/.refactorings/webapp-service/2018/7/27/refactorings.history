@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.apm.was.cors&apos; to &apos;data-rw/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;webapp-service&apos;&#x0D;&#x0A;- Destination element: &apos;data-rw/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;webapp-service/src/main/java/com.apm.was.cors&apos;" description="Copy package" destination="=data-rw/src\/main\/java" element1="/src\/main\/java&lt;com.apm.was.cors" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1530464427831" version="1.0"/>
+</session>

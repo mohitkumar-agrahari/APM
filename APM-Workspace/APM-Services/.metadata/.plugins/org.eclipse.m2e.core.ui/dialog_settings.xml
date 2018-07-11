@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\webapp-service"/>
+			<item value="C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\historian-read"/>
+			<item value="C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\features-availability"/>
+			<item value="C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\db-entities"/>
+			<item value="C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\data-rw"/>
+			<item value="C:\Users\magrahar\Downloads\APM-Git-Repo\APM-Workspace\authentication-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
